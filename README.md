@@ -35,6 +35,13 @@ What's up? I hope you find what you are looking for here!
     "positions": {
       "data": [
         {
+          "title": "Engineering Manager",
+          "startDate": "2022-01-01",
+          "company": {
+            "name": "Awaze"
+          }
+        },
+        {
           "title": "Technological Lead",
           "startDate": "2020-05-01",
           "company": {
@@ -46,13 +53,6 @@ What's up? I hope you find what you are looking for here!
           "startDate": "2019-08-01",
           "company": {
             "name": "Clio ApS"
-          }
-        },
-        {
-          "title": "Backend Developer",
-          "startDate": "2015-02-01",
-          "company": {
-            "name": "Loyalty Key"
           }
         }
       ],
