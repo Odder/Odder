@@ -35,6 +35,13 @@ What's up? I hope you find what you are looking for here!
     "positions": {
       "data": [
         {
+          "title": "Senior Engineering Manager",
+          "startDate": "2025-06-01",
+          "company": {
+            "name": "Corti"
+          }
+        },
+        {
           "title": "Engineering Manager",
           "startDate": "2022-01-01",
           "company": {
@@ -45,22 +52,15 @@ What's up? I hope you find what you are looking for here!
           "title": "Technological Lead",
           "startDate": "2020-05-01",
           "company": {
-            "name": "Clio ApS"
+            "name": "Clio"
           }
         },
-        {
-          "title": "Full stack developer",
-          "startDate": "2019-08-01",
-          "company": {
-            "name": "Clio ApS"
-          }
-        }
       ],
     },
     "languagesOfExpertise": [
-      "PHP",
       "Python",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ]
   }
 }
